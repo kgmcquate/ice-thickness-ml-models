@@ -1,0 +1,10 @@
+nbformat
+plotly
+polars
+xgboost
+scikit-learn
+boto3
+psycopg2-binary
+connectorx
+sqlalchemy
+mlflow
